@@ -63,7 +63,7 @@ in which students will work through programming exercises using Jupyter notebook
             * _What makes and when is Donald Trump happy (as evidenced on Twitter)?_
             * _What characterizes the online media's discussion of poverty/immigration/etc.?_
             * _From smoking to vaping - Examining online testimonials of e-cigarette users_
-            * _Comparing portrayal of women in rap and country music__
+            * _Comparing portrayal of women in rap and country music_
          2. Identify, retrieve and prepare a relevant corpus, e.g.
             * Clinton 2008 and 2016 campaign speeches
             * Trumps tweets since 2014
@@ -139,7 +139,7 @@ A central goal of this class is to help students begin to develop programming sk
     - _Coding_:
         * Working with sequences using Python `list` objects
         * List indexing and slicing
-    - **Readings**: _Baker Chs. 1&2_; _NLTK Book Ch. 1 (sections 1, 2 & 4 )_ http://www.nltk.org/book/ch01.html  
+    - **Readings**: *Baker Chs. 1&2*; *NLTK Book Ch. 1 (sections 1, 2 & 4 )* http://www.nltk.org/book/ch01.html  
     - **Assignment 1 DUE 5pm** - Submit through JupyterHub
 
 * Thur 02/04/21 - **Lab session 2**
@@ -172,15 +172,17 @@ A central goal of this class is to help students begin to develop programming sk
 
 * Tue  02/16/21 - **Corpus compilation**
     - _Topics:_
-    	* Extracting texts from documents
+			  * Extracting texts from documents
         * Organizing a corpus
         * Using APIs to compile a corpus (e.g. Genius, Twitter)
+		- **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
     - _Coding:_
         * Dictionaries
         * Writing files
         * Working with JSON
-	* Functions
-    - **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+	      * Functions
+		- **Assignment 3 DUE 5pm** - submit through JupyterHub
+
 
 * Thur 02/18/21 - **Lab session 4**:
     - _Topics_:
