@@ -181,6 +181,7 @@ A central goal of this class is to help students begin to develop programming sk
         * Writing files
         * Working with JSON
 	      * Functions
+
 		- **Assignment 3 DUE 5pm** - submit through JupyterHub
 
 
