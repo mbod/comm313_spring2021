@@ -182,7 +182,7 @@ A central goal of this class is to help students begin to develop programming sk
         * Working with JSON
 	      * Functions
 
-  - **Assignment 3 DUE 5pm** - submit through JupyterHub
+* Wed  02/17/21  - **Assignment 3 DUE 5pm** - submit through JupyterHub
 
 
 * Thur 02/18/21 - **Lab session 4**:
