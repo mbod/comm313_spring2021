@@ -191,7 +191,7 @@ A central goal of this class is to help students begin to develop programming sk
         * Writing a `string` object to a file
         * List of dictionaries structure
 	* Functions
-    - __Assignment 4__: Creating a text corpus
+    - **Assignment 4**: Creating a text corpus
 
 
 ### Week 6 - Concordance Analysis
@@ -201,11 +201,12 @@ A central goal of this class is to help students begin to develop programming sk
     - _Coding_:
         * Nested lists
         * Sorting lists
-	* Functions
+      	* Functions
     - **Readings**: _Baker Ch. 4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+    - **Assignment 4 DUE 12pm** - submit through JupyterHub
 
 * Thur 02/25/21 - **Lab session 5**
-    - **Assignment 4 DUE 12pm** - submit through JupyterHub
+
     - _Topics_:
          * sorting lists
          * the list-of-lists structure
