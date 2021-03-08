@@ -237,7 +237,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 ### Week 8 - Collocation
-* Tue 03/9/19 - **Words _have_ friends**
+* Tue 03/9/21 - **Words _have_ friends**
     - _Topics_:
         * Discovering meaning through context
 	* Comparing words through collocation
@@ -245,11 +245,13 @@ A central goal of this class is to help students begin to develop programming sk
     - _Coding_:
 
     - **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
-    - **Assignment 6 DUE 5pm**
+		- __Assignment 7__: Final project proposal
 
 
-* Thur 03/11/19 - **NO CLASS - SPRING BREAK**
 
+* Thur 03/11/21 - **NO CLASS - SPRING BREAK**
+* Fri 03/12/21
+    - **Assignment 6 DUE 11.59pm**
 
 ### Week 9 - Keyness
 * Tue 03/16/21 - **Discovering distinctive vocabulary**
@@ -261,8 +263,11 @@ A central goal of this class is to help students begin to develop programming sk
 
     * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
 
+    - **Assignment 7 DUE 5pm**
+
 * Thur 03/18/21 - **Lab session 8**
     - _Topics_:  
+		- __Assignment 8__: Keyness analysis
 
 
 ### Week 10 - Introduction to NLP
@@ -271,15 +276,20 @@ A central goal of this class is to help students begin to develop programming sk
   	* Key tasks: POS tagging, parsing, anaphora resolution, role identification
   	* Example Applications
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
-    * **Assignment 6 DUE 5pm**
+    * **Assignment 8 DUE 5pm**
 * Thur 03/25/21 - **Lab session 7**: Using NLTK; NLP Pipeline
+
+		- __Assignment 9__: Working with POS tags
+
 
 ### Week 11 - NLP: Affect and Sentiment analysis #1
 * Tue 03/30/21 - ** NO CLASS - Engagement Day **
 
 * Thur 04/01/21 - **Measuring emotion in text**
     * **Lab session 8**: Using affect lexicons
-  	* **Assignment 7 DUE 5pm**
+
+		* **Assignment 9 DUE 5pm**
+
 
 ### Week 12 - NLP: Affect and Sentiment analysis #2
 * Tue 04/06/21 - **Sentiment classification**
@@ -287,19 +297,21 @@ A central goal of this class is to help students begin to develop programming sk
   	* Building a training corpus
   	* Measuring accuracy
     * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
-  	* **Assignment 8 DUE 5pm**
 
 * Thur 04/08/21 - **Lab session 9**: Building a sentiment classifier
+		- __Assignment 10__: Sentiment Analysis
+
+
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 04/13/21 - **Identifying actors and actions in text**
   	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
-  	* **Assignment 9 DUE 5pm**
+		* **Assignment 10 DUE 5pm**
+
 * Thur 04/15/21 - **Lab session 10**: NER and parsed corpora
 
 ### Week 14 - NLP: Topic models
 * Tue 04/20/21 - **Discovering clusters of words in text collections**
-	* **Assignment 10 DUE 5pm**
 * Thur 04/22/21 - **Lab session 11**: Topic models and visualization
 
 ### Week 15 - Class projects
