@@ -254,19 +254,16 @@ A central goal of this class is to help students begin to develop programming sk
     - **Assignment 6 DUE 11.59pm**
 
 ### Week 9 - Keyness
-* Tue 03/16/21 - **Discovering distinctive vocabulary**
+* Tue 03/16/21 - **Lab session 8**
+    * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
+
+    * **Assignment 7 DUE 5pm**
+
+* Thur 03/18/21 - **Discovering distinctive vocabulary**
     - _Topics_:  
         * 'Aboutness' in text
         * Kinds of comparison
         * Statistical significance and association
-    - _Coding_:
-
-    * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
-
-    - **Assignment 7 DUE 5pm**
-
-* Thur 03/18/21 - **Lab session 8**
-    - _Topics_:  
 
 
 
@@ -277,6 +274,7 @@ A central goal of this class is to help students begin to develop programming sk
   	* Example Applications
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
+
 * Thur 03/25/21 - **Lab session 7**: Using NLTK; NLP Pipeline
     * __Assignment 8__: Working with POS tags and Twitter data
 
@@ -285,17 +283,19 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 03/30/21 - ** NO CLASS - Engagement Day **
 
 * Thur 04/01/21 - **Measuring emotion in text**
-    * **Lab session 8**: Using affect lexicons
+  * **Lab session 8**: Using affect lexicons
 
-		* **Assignment 8 DUE 5pm**
+  * **Assignment 8 DUE 5pm**
 
 
 ### Week 12 - NLP: Affect and Sentiment analysis #2
 * Tue 04/06/21 - **Sentiment classification**
-  	* Supervised machine learning
-  	* Building a training corpus
-  	* Measuring accuracy
-    * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
+	* Supervised machine learning
+	* Building a training corpus
+	* Measuring accuracy
+
+  * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
+
 
 * Thur 04/08/21 - **Lab session 9**: Building a sentiment classifier
     * __Assignment 9__: Sentiment Analysis
@@ -303,19 +303,22 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 04/13/21 - **Identifying actors and actions in text**
-  	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
+  * **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
 
   * **Assignment 9 DUE 5pm**
 
+
 * Thur 04/15/21 - **Lab session 10**: NER and parsed corpora
-     - __Assignment 10__: Working with LexisNexis data
+  * __Assignment 10__: Working with LexisNexis data
 
 
 ### Week 14 - NLP: Topic models
 * Tue 04/20/21 - **Discovering clusters of words in text collections**
     * **Assignment 10 DUE 5pm**
 
+
 * Thur 04/22/21 - **Lab session 11**: Topic models and visualization
+
 
 ### Week 15 - Class projects
 * Tue 04/27/19 - **Project presentations**
