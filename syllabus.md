@@ -298,7 +298,7 @@ A central goal of this class is to help students begin to develop programming sk
     * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
 
 * Thur 04/08/21 - **Lab session 9**: Building a sentiment classifier
-		- __Assignment 9__: Sentiment Analysis
+    * __Assignment 9__: Sentiment Analysis
 
 
 
