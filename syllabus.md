@@ -267,7 +267,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 * Thur 03/18/21 - **Lab session 8**
     - _Topics_:  
-		- __Assignment 8__: Keyness analysis
+
 
 
 ### Week 10 - Introduction to NLP
@@ -279,7 +279,7 @@ A central goal of this class is to help students begin to develop programming sk
     * **Assignment 8 DUE 5pm**
 * Thur 03/25/21 - **Lab session 7**: Using NLTK; NLP Pipeline
 
-		- __Assignment 9__: Working with POS tags
+		- __Assignment 8__: Working with POS tags and Twitter Day
 
 
 ### Week 11 - NLP: Affect and Sentiment analysis #1
@@ -288,7 +288,7 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 04/01/21 - **Measuring emotion in text**
     * **Lab session 8**: Using affect lexicons
 
-		* **Assignment 9 DUE 5pm**
+		* **Assignment 8 DUE 5pm**
 
 
 ### Week 12 - NLP: Affect and Sentiment analysis #2
@@ -299,19 +299,23 @@ A central goal of this class is to help students begin to develop programming sk
     * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
 
 * Thur 04/08/21 - **Lab session 9**: Building a sentiment classifier
-		- __Assignment 10__: Sentiment Analysis
+		- __Assignment 9__: Sentiment Analysis
 
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 04/13/21 - **Identifying actors and actions in text**
   	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
-		* **Assignment 10 DUE 5pm**
+		* **Assignment 9 DUE 5pm**
 
 * Thur 04/15/21 - **Lab session 10**: NER and parsed corpora
+     - __Assignment 10__: Working with LexisNexis data
+
 
 ### Week 14 - NLP: Topic models
 * Tue 04/20/21 - **Discovering clusters of words in text collections**
+    * **Assignment 10 DUE 5pm**
+
 * Thur 04/22/21 - **Lab session 11**: Topic models and visualization
 
 ### Week 15 - Class projects
