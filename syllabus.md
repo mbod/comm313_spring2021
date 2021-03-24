@@ -305,7 +305,7 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 04/13/21 - **Identifying actors and actions in text**
   	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
 
-		* **Assignment 9 DUE 5pm**
+  * **Assignment 9 DUE 5pm**
 
 * Thur 04/15/21 - **Lab session 10**: NER and parsed corpora
      - __Assignment 10__: Working with LexisNexis data
