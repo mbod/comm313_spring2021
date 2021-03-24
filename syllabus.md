@@ -278,7 +278,7 @@ A central goal of this class is to help students begin to develop programming sk
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
 * Thur 03/25/21 - **Lab session 7**: Using NLTK; NLP Pipeline
-	  - __Assignment 8__: Working with POS tags and Twitter data
+    * __Assignment 8__: Working with POS tags and Twitter data
 
 
 ### Week 11 - NLP: Affect and Sentiment analysis #1
