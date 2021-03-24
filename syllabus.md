@@ -304,6 +304,7 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 04/13/21 - **Identifying actors and actions in text**
   	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
+
 		* **Assignment 9 DUE 5pm**
 
 * Thur 04/15/21 - **Lab session 10**: NER and parsed corpora
