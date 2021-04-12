@@ -298,23 +298,18 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 * Thur 04/08/21 - **Lab session 9**: Building a sentiment classifier
-    * __Assignment 9__: Sentiment Analysis
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 04/13/21 - **Identifying actors and actions in text**
   * **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
 
-  * **Assignment 9 DUE 5pm**
-
 
 * Thur 04/15/21 - **Lab session 10**: NER and parsed corpora
-  * __Assignment 10__: Working with LexisNexis data
 
 
 ### Week 14 - NLP: Topic models
 * Tue 04/20/21 - **Discovering clusters of words in text collections**
-    * **Assignment 10 DUE 5pm**
 
 
 * Thur 04/22/21 - **Lab session 11**: Topic models and visualization
